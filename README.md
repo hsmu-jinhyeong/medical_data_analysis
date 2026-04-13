@@ -111,26 +111,12 @@
 ## 11. 🛠 기술 스택
 
 
----
 
-## 12. 📂 프로젝트 구조
 
-```
-project/
- ├── data/
- ├── notebooks/
- ├── src/
- │   ├── preprocessing.py
- │   ├── feature_engineering.py
- │   ├── model.py
- │   └── evaluation.py
- ├── results/
- └── README.md
-```
 
 ---
 
-## 13. 📎 기대 효과
+## 12. 📎 기대 효과
 
 * 의료 데이터 분석 역량 향상
 * 머신러닝 기반 질병 예측 경험 확보
